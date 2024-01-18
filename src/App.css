@@ -64,3 +64,13 @@ padding: 50px;
   border: none;
   cursor: pointer;
 }
+
+
+.meme-img {
+  margin-top: 10px
+}
+
+.meme-img img {
+  width: 100%;
+  border-radius: 5px;
+}
