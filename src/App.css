@@ -24,11 +24,11 @@
   font-weight: 500;
 }
 
-
-
 /* --Meme section */
-.meme{
-padding: 50px;
+.meme {
+  max-width: 700px;
+  margin: 36px auto;
+  /* padding: 50px; */
 }
 
 .form {
@@ -63,4 +63,14 @@ padding: 50px;
   border-radius: 5px;
   border: none;
   cursor: pointer;
+}
+
+
+.meme-img {
+  margin-top: 10px
+}
+
+.meme-img img {
+  width: 100%;
+  border-radius: 5px;
 }
